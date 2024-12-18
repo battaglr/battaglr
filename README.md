@@ -1,3 +1,7 @@
-### 👋 &nbsp;Hi, I’m Luciano!
+# ☞ Hi, I’m Luciano! ✱
 
-Take a look at my [Personal website](https://www.lucianobattagliero.com) to learn more about me!
+Building for the Web since ’08.
+
+[Website](https://www.lucianobattagliero.com) ·
+[LinkedIn](https://www.linkedin.com/in/battaglr/)
+
