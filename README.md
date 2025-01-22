@@ -1,4 +1,4 @@
-# Hi, I’m Luciano! ✱
+# Hi, I’m Luciano! ✦
 
 Building for the Web since ’08.
 
